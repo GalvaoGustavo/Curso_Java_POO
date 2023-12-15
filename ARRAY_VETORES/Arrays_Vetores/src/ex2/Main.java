@@ -27,8 +27,11 @@ public class Main {
 		sc.close();
 }
 		double total = 0.0
-			for (int i=0; i<vec.length; i++) {
-			total += vec[i].getPrice;
+			for (int i=0; i<vec.length; i++)
+
+	{
+		total += vec[i].getPrice;
+	}
 	}
 	
 		double media = total / vec.length;
