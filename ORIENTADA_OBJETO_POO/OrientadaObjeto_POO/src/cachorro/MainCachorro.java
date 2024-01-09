@@ -12,7 +12,7 @@ public class MainCachorro {
 		cachorro1.peso = 10.1;
 		cachorro1.tamanhoDoRabo = 4;
 		
-		System.out.println(cachorro1);
+		System.out.println(cachorro1.nome);
 		cachorro1.latir(); // objeto cachorro1 chama classe latir
 		cachorro1.pegar(); // nao realiza nada, pq o metodo possui um return, precisa printar
 		System.out.println("O cachorro foi pegar a: "+cachorro1.pegar()); // print com metodo, pq possui return

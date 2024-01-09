@@ -3,11 +3,11 @@ package cachorro;
 public class Cachorro { //criando classe cachorro
 
 		public String nome; // definiçao dos parametros da classe
-		String cor;
-		int altura;
-		double peso;
-		int tamanhoDoRabo;		
-		String estadoEspirito;
+		public String cor;
+		public int altura;
+		public double peso;
+		public int tamanhoDoRabo;
+		public String estadoEspirito;
 
 
 

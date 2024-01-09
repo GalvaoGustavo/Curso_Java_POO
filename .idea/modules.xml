@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calc/Calc.iml" filepath="$PROJECT_DIR$/Calc/Calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Math/Class_Math.iml" filepath="$PROJECT_DIR$/Class_Math/Class_Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Random/Class_Random.iml" filepath="$PROJECT_DIR$/Class_Random/Class_Random.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Scanner/Class_Scanner.iml" filepath="$PROJECT_DIR$/Class_Scanner/Class_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_String/Class_String.iml" filepath="$PROJECT_DIR$/Class_String/Class_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_StringBuilder/Class_StringBuilder.iml" filepath="$PROJECT_DIR$/Class_StringBuilder/Class_StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constantes/Constantes.iml" filepath="$PROJECT_DIR$/Constantes/Constantes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_Java_POO.iml" filepath="$PROJECT_DIR$/Curso_Java_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_Java_POO1.iml" filepath="$PROJECT_DIR$/Curso_Java_POO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_Java_POO2.iml" filepath="$PROJECT_DIR$/Curso_Java_POO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_Java_POO3.iml" filepath="$PROJECT_DIR$/Curso_Java_POO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_Java_POO4.iml" filepath="$PROJECT_DIR$/Curso_Java_POO4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateHours/DateHours.iml" filepath="$PROJECT_DIR$/DateHours/DateHours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escopos/Escopos.iml" filepath="$PROJECT_DIR$/Escopos/Escopos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Repeticao_Do_While/Estrutura_Repeticao_Do_While.iml" filepath="$PROJECT_DIR$/Estrutura_Repeticao_Do_While/Estrutura_Repeticao_Do_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Repeticao_For/Estrutura_Repeticao_For.iml" filepath="$PROJECT_DIR$/Estrutura_Repeticao_For/Estrutura_Repeticao_For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Repeticao_Switch_Case/Estrutura_Repeticao_Switch_Case.iml" filepath="$PROJECT_DIR$/Estrutura_Repeticao_Switch_Case/Estrutura_Repeticao_Switch_Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Repeticao_WHILE/Estrutura_Repeticao_WHILE.iml" filepath="$PROJECT_DIR$/Estrutura_Repeticao_WHILE/Estrutura_Repeticao_WHILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos_GET_SET/Metodos_GET_SET.iml" filepath="$PROJECT_DIR$/Metodos_GET_SET/Metodos_GET_SET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos_Parametros/Metodos_Parametros.iml" filepath="$PROJECT_DIR$/Metodos_Parametros/Metodos_Parametros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos_Sobrecargas/Metodos_Sobrecargas.iml" filepath="$PROJECT_DIR$/Metodos_Sobrecargas/Metodos_Sobrecargas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operador_Aritmetico/Operador_Aritmetico.iml" filepath="$PROJECT_DIR$/Operador_Aritmetico/Operador_Aritmetico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operador_Atribuicao/Operador_Atribuicao.iml" filepath="$PROJECT_DIR$/Operador_Atribuicao/Operador_Atribuicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operador_Condicional_IF_ELSE/Operador_Condicional_IF_ELSE.iml" filepath="$PROJECT_DIR$/Operador_Condicional_IF_ELSE/Operador_Condicional_IF_ELSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operador_Condicional_Ternario/Operador_Condicional_Ternario.iml" filepath="$PROJECT_DIR$/Operador_Condicional_Ternario/Operador_Condicional_Ternario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operador_Incremento_Decremento/Operador_Incremento_Decremento.iml" filepath="$PROJECT_DIR$/Operador_Incremento_Decremento/Operador_Incremento_Decremento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operador_RelacionaisComparacao/Operador_RelacionaisComparacao.iml" filepath="$PROJECT_DIR$/Operador_RelacionaisComparacao/Operador_RelacionaisComparacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJETOS_CURSO/PROJETOS_CURSO.iml" filepath="$PROJECT_DIR$/PROJETOS_CURSO/PROJETOS_CURSO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJETOS_CURSO/ProjectPensionato/ProjectPensionato.iml" filepath="$PROJECT_DIR$/PROJETOS_CURSO/ProjectPensionato/ProjectPensionato.iml" />
+    </modules>
+  </component>
+</project>
